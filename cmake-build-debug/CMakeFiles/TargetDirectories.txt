@@ -1,0 +1,3 @@
+/home/student/CLionProjects/targeel2/cmake-build-debug/CMakeFiles/targeel2.dir
+/home/student/CLionProjects/targeel2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/student/CLionProjects/targeel2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
